@@ -1,0 +1,28 @@
+request  a positive integer from user
+if the integer is above 0
+set integer as new high
+else if user adds 0 (set 0 as new high)
+
+
+request user name
+save user name in variable file named "user_name"
+once user_name is saved
+print "user_name & Hello,World"
+
+
+request user to input arbitrary number
+compile data from user input
+calculate arithmetic average from user input
+print "arithmetic average calculated"
+
+
+request grocery list
+read groceries not purchased yet
+print "the unpurchased groceries in alphabetical order"
+
+
+start
+get integer X or Y
+calculate "S=X+Y, A=S/2, P=XxY"
+print "S,A,P" once calculated
+stop
